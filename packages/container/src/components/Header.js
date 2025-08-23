@@ -79,7 +79,7 @@ export default function Header({ signedIn, onSignOut }) {
             component={RouterLink}
             to="/"
           >
-            MicroFront Store
+            MF Store
           </Typography>
           <Button
             color="primary"
